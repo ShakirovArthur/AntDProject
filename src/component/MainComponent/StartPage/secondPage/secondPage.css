@@ -1,0 +1,17 @@
+.secondPage{
+    background-image: url("./clouds.png");
+}
+
+.textUs{
+    text-align: center;
+    padding-top: 10%;
+    color:#3D4F9F;
+}
+.icons {
+    display: flex;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    grid-gap:20%;
+    text-align:center;
+    justify-content: center;
+}

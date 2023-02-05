@@ -1,0 +1,10 @@
+.mainTab {
+    width: auto;
+    height: 55%;
+    /*margin-left:3%;*/
+    background:white;
+    margin-bottom: 20px;
+    /*margin-top:10px;*/
+    border-radius:10px;
+    padding-left:20px
+}

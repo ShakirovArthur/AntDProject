@@ -1,0 +1,27 @@
+.niche{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(370px, 1fr));
+
+    gap: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    margin-right: 10px;
+}
+.gridComponent{
+    border-radius: 10px;
+    padding-top: 20px;
+    background-color: white;
+    text-align: center;
+}
+.headerCategory{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.staticNiche{
+    margin-top: 20px;
+}

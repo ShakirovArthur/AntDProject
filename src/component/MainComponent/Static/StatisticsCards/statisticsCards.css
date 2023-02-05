@@ -1,0 +1,15 @@
+.saleStatistics{
+    border-radius:10px;
+    background-color:white;
+    width: auto;
+}
+.listProduct{
+    width:500px;
+    background-color:white;
+    border-radius:10px;
+}
+.imgProduct{
+    width:200px;
+    display: block;
+    margin: 0 auto;
+}

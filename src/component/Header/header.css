@@ -1,0 +1,30 @@
+.logoTelegram{
+    padding-right: 30px;
+}
+.logoVk{
+    width:20px;
+    height:20px;
+    margin-top: 6px;
+    margin-right: 30px;
+}
+.mainIcon{
+    width: 40px;
+    height: 40px;
+    background-color: white;
+}
+.headerText{
+    margin-left:20px;
+}
+.nameAndIcon{
+    display: flex;
+}
+.socialMedia{
+    padding-bottom: 30px;
+    display: flex;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    padding-top:15px;
+    padding-left: 20px;
+}
