@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6ed97ca-6a5c-467b-8684-d88b00e6da78" name="Changes" comment="ся">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MainComponent/StartPage/MainStartPage/startPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MainComponent/StartPage/MainStartPage/startPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MainComponent/StartPage/WelcomStatic/welcomStatic.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MainComponent/StartPage/WelcomStatic/welcomStatic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MainComponent/StartPage/secondPage/SecondPageStaticFirst.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MainComponent/StartPage/secondPage/SecondPageStaticFirst.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MainComponent/StartPage/secondPage/SecondStatic.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MainComponent/StartPage/secondPage/SecondStatic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MainComponent/StartPage/secondPage/secondPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MainComponent/StartPage/secondPage/secondPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/menu.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2L5rCCdrKBIysyT8NUakhh0iz5N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/component/MainComponent/Static/Diagrams" />
+      <recent name="$PROJECT_DIR$/src/component/MainComponent/Static/Table" />
+      <recent name="$PROJECT_DIR$/src/component/MainComponent/Static/StatisticsCards" />
+      <recent name="$PROJECT_DIR$/src/component/MainComponent/Static/CellsWithStatistics" />
+      <recent name="$PROJECT_DIR$/src/component/MainComponent/Static/DataPicker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.menu.test.js">
+    <configuration name="All Tests" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menu.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/menu.test.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TableNiche.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/component/MainComponent/Niche/TableNiche.js" working-dir="$PROJECT_DIR$/src/component/MainComponent/Niche">
+      <method v="2" />
+    </configuration>
+    <configuration name="header.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/component/Header/header.js" working-dir="$PROJECT_DIR$/src/component">
+      <method v="2" />
+    </configuration>
+    <configuration name="menu.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/menu.js" working-dir="$PROJECT_DIR$/src/component">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.All Tests" />
+      <item itemvalue="Jest.menu.test.js" />
+      <item itemvalue="Node.js.header.js" />
+      <item itemvalue="Node.js.menu.js" />
+      <item itemvalue="Node.js.TableNiche.js" />
+      <item itemvalue="npm.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.menu.test.js" />
+        <item itemvalue="Node.js.menu.js" />
+        <item itemvalue="Node.js.TableNiche.js" />
+        <item itemvalue="Node.js.header.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6ed97ca-6a5c-467b-8684-d88b00e6da78" name="Changes" comment="" />
+      <created>1675171654415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675171654415</updated>
+      <workItem from="1675171657246" duration="653000" />
+      <workItem from="1675172324603" duration="591000" />
+      <workItem from="1675183396759" duration="51000" />
+      <workItem from="1675183481420" duration="787000" />
+      <workItem from="1675184418191" duration="2000" />
+      <workItem from="1675184485555" duration="136000" />
+      <workItem from="1675184631126" duration="134000" />
+      <workItem from="1675184775417" duration="57000" />
+      <workItem from="1675185027184" duration="40000" />
+      <workItem from="1675226985084" duration="22151000" />
+      <workItem from="1675313721709" duration="1175000" />
+      <workItem from="1675315961153" duration="19855000" />
+      <workItem from="1675342517113" duration="1379000" />
+      <workItem from="1675354009692" duration="609000" />
+      <workItem from="1675399274568" duration="11649000" />
+      <workItem from="1675582867151" duration="15000" />
+      <workItem from="1675587729371" duration="12069000" />
+      <workItem from="1675605849670" duration="945000" />
+      <workItem from="1675606845970" duration="45000" />
+      <workItem from="1675607309014" duration="27000" />
+      <workItem from="1675607919663" duration="1104000" />
+      <workItem from="1675666650938" duration="369000" />
+      <workItem from="1675702969574" duration="173000" />
+      <workItem from="1675795211292" duration="26000" />
+      <workItem from="1675795614905" duration="161000" />
+      <workItem from="1675839898826" duration="15000" />
+      <workItem from="1675854381978" duration="2873000" />
+      <workItem from="1675924333607" duration="884000" />
+    </task>
+    <task id="LOCAL-00001" summary="ся">
+      <created>1675172631344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675172631344</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ся">
+      <created>1675183636679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675183636679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ся" />
+    <option name="LAST_COMMIT_MESSAGE" value="ся" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

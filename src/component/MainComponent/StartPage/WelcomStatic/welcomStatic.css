@@ -1,5 +1,9 @@
 .welcomStatic {
     background: white;
     margin-top: 20px;
-
+}
+@media only screen and (max-width: 891px) {
+    .welcomStatic {
+        display: none;
+    }
 }
